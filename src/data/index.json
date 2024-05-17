@@ -1,0 +1,77 @@
+{
+    "skills":[
+        {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front-end Developer",
+            "discription": "Lorem ipsum loremfakfjdnsknavjnsdvjabsvvjsdkkjdv"
+        },
+        {
+            "id": 2,
+            "src": "./img/tag-1.png",
+            "title": "Back-end Developer",
+            "discription": "Lorem ipsum loremfakfjdnsknavjnsdvjabsvvjsdkkjdv"
+        },
+        {
+            "id": 3,
+            "src": "./img/feather-pen-2.png",
+            "title": "WordPress Developer",
+            "discription": "Lorem ipsum loremfakfjdnsknavjnsdvjabsvvjsdkkjdv"
+        },
+        {
+            "id": 4,
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow Developement",
+            "discription": "Lorem ipsum loremfakfjdnsknavjnsdvjabsvvjsdkkjdv"
+        }
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/placeholder-image.png",
+          "title": "ChatApp",
+          "description": "ChatApp where you can caht with your friends and family using localhost server",
+          "link": "https://github.com/Maroon152002/mainChatapp"
+        },
+        {
+          "id": "2",
+          "src": "./img/placeholder-image-1.png",
+          "title": "Gallery Website",
+          "description": "Gallery Website where you can upload your img, videos",
+          "link": "https://github.com/Maroon152002/Gallery-Website"
+        },
+        {
+          "id": "3",
+          "src": "./img/placeholder-image-2.png",
+          "title": "Movie Website",
+          "description": "What you want to do today, tomorrow or day after tomorrow you can add your Todo list on this site",
+          "link": "https://github.com/Maroon152002/movieSite"
+        }
+      ],
+      "testimonial": [
+        {
+          "id": "1",
+          "count": "5",
+
+          "description": "Frontend is perfect of your all the websites I have gone through..Keep it up Atharva!!!",
+          "author_name": "Rohan Koldhalkar",
+          "author_designation": "Starbucks"
+        },
+        {
+          "id": "2",
+          "count": "5",
+          
+          "description": "Your Backend knowledge is very nice",
+          "author_name": "Pranav Bandal",
+          "author_designation": "Louis Vuitton"
+        },
+        {
+          "id": "3",
+          "count": "5",
+          
+          "description": "Happy with your work",
+          "author_name": "Sahil Khan",
+          "author_designation": "McDonald's"
+        }
+      ]
+}
